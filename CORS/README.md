@@ -19,3 +19,7 @@ https://stackoverflow.com/questions/58228488/cors-blocked-angular-7-and-spring-5
 # CorsFilter
 
 https://spring.pleiades.io/spring-framework/docs/current/javadoc-api/org/springframework/web/filter/CorsFilter.html
+
+# SpringBoot CORS
+
+https://b1san-blog.com/post/spring/spring-cors/
