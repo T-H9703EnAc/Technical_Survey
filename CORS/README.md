@@ -23,3 +23,7 @@ https://spring.pleiades.io/spring-framework/docs/current/javadoc-api/org/springf
 # SpringBoot CORS
 
 https://b1san-blog.com/post/spring/spring-cors/
+
+# Spring チュートリアル
+
+https://spring.pleiades.io/spring-security/reference/6.0/servlet/integrations/cors.html
