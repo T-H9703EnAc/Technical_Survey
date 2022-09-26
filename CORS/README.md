@@ -2,9 +2,30 @@
 
 https://wa3.i-3-i.info/word139.html
 
+# Access-Control-Allow-Origin
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+
+# Access-Control-Allow-Headersとは
+
+https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Allow-Headers
+
+# Access-Control-Allow-Methodsとは
+
+https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Allow-Methods
+
+# Access-Control-Allow-Credentialsとは
+
+https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials
+
 # Access-Control-Max-Ageとは
 
 https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Max-Age
+
+# Access-Control-Expose-Headerとは
+
+https://developer.mozilla.org/ja/docs/Web/HTTP/Headers/Access-Control-Expose-Headers
+
 
 # CORS設定項目
 
